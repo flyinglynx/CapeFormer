@@ -1,0 +1,9 @@
+.eggs/*
+.vscode/*
+capeformer.egg-info/*
+work_dirs/*
+*/__pycache__
+*.pyc
+data/*
+data
+result_keypoints.json
